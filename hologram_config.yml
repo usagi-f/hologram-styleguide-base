@@ -1,0 +1,3 @@
+source: ./src
+destination: ./doc
+documentation_assets: ./doc_assets
